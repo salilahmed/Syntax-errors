@@ -5,7 +5,8 @@ Misspelled keywords: Using incorrect spellings for keywords or identifiers in th
 Missing or misplaced punctuation: Forgetting to include necessary punctuation marks such as parentheses, brackets, or commas, or placing them incorrectly can result in syntax errors. For instance, forgetting to close a parenthesis or placing a colon in the wrong position.
 
 Mismatched parentheses or brackets: Having mismatched pairs of parentheses or brackets can cause syntax errors, as the interpreter/compiler will not be able to determine the correct order of operations.
-
+Missing or extra parentheses, brackets, or braces.
+2. Misusing assignment operators, such as using = instead of ==.
 Incorrect indentation: Many programming languages, including Python, rely on indentation to define code blocks. Incorrect or inconsistent indentation can lead to syntax errors, especially in loops, conditionals, and function definitions.
 Mismatched parentheses or brackets: Having mismatched pairs of parentheses or brackets can cause syntax errors, as the interpreter/compiler will not be able to determine the correct order of operations.
 Syntax errors in machine learning typically refer to mistakes or issues related to the structure or formatting of code written in programming languages like Python, R, or others. These errors occur when the code does not conform to the syntax rules of the language, making it invalid and unable to be executed by the interpreter or compiler. Here are some common syntax errors encountered in machine learning code:
