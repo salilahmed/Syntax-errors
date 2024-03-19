@@ -11,3 +11,4 @@ class Obstacle(pygame.sprite.Sprite):
         self.speed_y = random.randrange(1, 5)
 
 Concurrency and Synchronization Errors: These occur in concurrent programming when multiple threads or processes access shared resources concurrently without proper synchronization, leading to race conditions, deadlocks, or data corruption.
+Concurrency and Synchronization Errors: These occur in concurrent programming when multiple threads or processes access shared resources concurrently without proper synchronization, leading to race conditions, deadlocks, or data corruption.
